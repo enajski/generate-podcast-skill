@@ -1,0 +1,2 @@
+# Install only in an explicitly selected Apple Silicon environment.
+mlx-audio==0.5.7

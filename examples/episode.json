@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "title": "A small repair cafe",
+  "description": "A short fictional demonstration, not a factual report.",
+  "sections": [
+    {
+      "id": "opening",
+      "heading": "The shared table",
+      "paragraphs": [
+        "This is a fictional demonstration of a community repair cafe. Neighbours bring broken lamps and learn how to fix them together."
+      ]
+    },
+    {
+      "id": "limits",
+      "heading": "What the example does not claim",
+      "paragraphs": [
+        "No interviews or field recordings were used. The example does not estimate costs or claim that every repair succeeds."
+      ]
+    }
+  ],
+  "sources": [],
+  "voice": {
+    "voice": "Aiden",
+    "lang_code": "English",
+    "instruct": "Read in a clear, matter-of-fact conversational voice. Avoid dramatic pauses.",
+    "temperature": 0.65,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.05,
+    "max_tokens": 1800
+  },
+  "pronunciations": [],
+  "max_words": 95,
+  "seed_base": 1000,
+  "critical_facts": [
+    "This example is fictional.",
+    "No interviews or field recordings were used."
+  ]
+}

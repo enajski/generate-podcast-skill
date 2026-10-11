@@ -1,0 +1,4 @@
+# Versions exercised in the Python 3.11 Apple Silicon smoke test.
+mlx==0.32.3
+numpy==2.4.6
+transformers==5.18.0
